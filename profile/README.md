@@ -70,6 +70,6 @@ If you use the code and something breaks or damages anything, the **licensor** i
 ## 📚 **Further Details**  
 For the full official license text, visit: [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0) 🌐🖱️
 
-<hr>
+
 # Translations
- - You speak German 🇩🇪, we have a translation [Deutsche Ließ mich](https://github.com/isobiscuit/.github/profile/README-DE.md)
+You speak German 🇩🇪, we have a translation [Deutsche Ließ mich](README-DE.md)
