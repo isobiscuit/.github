@@ -17,7 +17,7 @@
 📜 We use the Apache License for the maximum of freedom!!
 💻 **Get started with IsoBiscuit now!** 😃  
 
-# 📜 **Apache License 2.0 - Super Simplified Explanation with Tons of Emojis**  
+# 📜 **Apache License 2.0**  
 
 ## 🌍 **1. Definitions**  
 - **"License"** means the **terms and conditions** for using, reproducing, and distributing the code. 📝📑🖊️  
