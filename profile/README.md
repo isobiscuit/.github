@@ -72,4 +72,4 @@ For the full official license text, visit: [Apache 2.0 License](http://www.apach
 
 <hr>
 # Translations
- - You speak German 🇩🇪, we have a translation [Deutsche Ließ mich](./README-DE.md)
+ - You speak German 🇩🇪, we have a translation [Deutsche Ließ mich](https://github.com/isobiscuit/.github/profile/README-DE.md)
