@@ -1,3 +1,4 @@
+**Dies ist nur eine Übersetztung der englischen Version. Hier geht es zu dem Original [Original](./README.md)**
 # 🍪 IsoBiscuit – Die virtuelle maschine läuft mit Power!🚀  
 
 **IsoBiscuit** ist ein leistungsstarkes Tool zur Virtualisierung von Prozessen und Aufgaben, die in **Biscuit Assembly** geschrieben sind. ⚙️💻  
