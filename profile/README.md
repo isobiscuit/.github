@@ -14,7 +14,9 @@
 🚀 Perfect for developers working with **Biscuit Assembly**  
 🔬 Designed for maximum performance & ease of use  
 🎯 Ideal for simulations and testing  
-📜 We use the Apache License for the maximum of freedom!!
+📜 We use the Apache License for the maximum of freedom!!\
+🇩🇪 Made in Germany
+
 💻 **Get started with IsoBiscuit now!** 😃  
 
 # 📜 **Apache License 2.0**  
