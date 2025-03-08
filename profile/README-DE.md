@@ -3,7 +3,7 @@
 
 **IsoBiscuit** ist ein leistungsstarkes Tool zur Virtualisierung von Prozessen und Aufgaben, die in **Biscuit Assembly** geschrieben sind.  
 
-🔄 Dein Code wird in eine `.biscuit`-Datei kompiliert – ein reines **Hex-Format** 🧩.  
+🔄 Dein Code wird in eine `.biscuit`-Datei kompiliert – ein reines **Hex-Format**.  
 ❗ Wenn du die Datei öffnest und seltsame Zeichen siehst: **Keine Panik!** Das ist völlig normal, weil dieses Format nicht für ASCII gedacht ist.  
 
 ✨ **Funktionen:**  
@@ -20,11 +20,11 @@
 # **Apache Lizenz 2.0**  
 
 ## **1. Definitionen**  
-- **"Lizenz"** bedeutet die **Bedingungen und Konditionen** für die Nutzung, Vervielfältigung und Verbreitung des Codes. 📝📑🖊️  
-- **"Lizenzgeber"** ist die **Person oder Organisation**, die die Rechte am Code besitzt und diese Lizenz gewährt. 🏢👔💼  
-- **"Du"** (oder "Dein") ist jede Person, die die Lizenz verwendet, einschließlich Entwickler, Hobbyisten oder Unternehmen. 👨‍💻👩‍💻👨‍💼🦸‍♂️🦸‍♀️  
-- **"Werk"** bezieht sich auf den **Code, das Softwareprojekt** oder alle Dateien, die unter dieser Lizenz bereitgestellt werden. 💻📦🖥️🎮  
-- **"Abgeleitete Werke"** sind alle **Änderungen, Erweiterungen oder Projekte**, die auf dem Code basieren. 🛠️⚙️🔧  
+- **"Lizenz"** bedeutet die **Bedingungen und Konditionen** für die Nutzung, Vervielfältigung und Verbreitung des Codes. 
+- **"Lizenzgeber"** ist die **Person oder Organisation**, die die Rechte am Code besitzt und diese Lizenz gewährt.  
+- **"Du"** (oder "Dein") ist jede Person, die die Lizenz verwendet, einschließlich Entwickler, Hobbyisten oder Unternehmen. 
+- **"Werk"** bezieht sich auf den **Code, das Softwareprojekt** oder alle Dateien, die unter dieser Lizenz bereitgestellt werden.   
+- **"Abgeleitete Werke"** sind alle **Änderungen, Erweiterungen oder Projekte**, die auf dem Code basieren. 
 
 ---
 
