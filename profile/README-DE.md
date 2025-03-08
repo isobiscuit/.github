@@ -8,12 +8,9 @@
 
 ✨ **Funktionen:**  
 ✅ Virtuelle Ausführung von Biscuit Assembly 🏗️  
-✅ Effiziente und schnelle Prozess-Virtualisierung ⚡  
 ✅ Kompakte und optimierte `.biscuit`-Dateien 📦  
 
 💡 **Warum IsoBiscuit?**  
-🚀 Perfekt für Entwickler, die mit **Biscuit Assembly** arbeiten  
-🔬 Entwickelt für maximale Leistung & Benutzerfreundlichkeit  
 🎯 Ideal für Simulationen und Tests  
 📜 Wir verwenden die Apache Lizenz für maximale Freiheit!!  
 🇩🇪 Made in Germany
