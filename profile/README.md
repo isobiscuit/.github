@@ -7,12 +7,9 @@
 
 ✨ **Features:**  
 ✅ Virtual execution of Biscuit Assembly 🏗️  
-✅ Efficient and fast process virtualization ⚡  
 ✅ Compact and optimized `.biscuit` files 📦  
 
 💡 **Why IsoBiscuit?**  
-🚀 Perfect for developers working with **Biscuit Assembly**  
-🔬 Designed for maximum performance & ease of use  
 🎯 Ideal for simulations and testing  
 📜 We use the Apache License for the maximum of freedom!!\
 🇩🇪 Made in Germany
