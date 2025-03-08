@@ -34,7 +34,7 @@ You get the **right** to:
 - **Distribute** the code to others 
 - **Create new works** based on the original code  
 
-- **Important:** If you change or share the code, you must include the **license** and give **credit** to the original creator(s). 🙌👑🎖️
+- **Important:** If you change or share the code, you must include the **license** and give **credit** to the original creator(s).
 
 ---
 
